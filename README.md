@@ -1,4 +1,4 @@
-# SEGWARE-UI-REACT
+# ARQ-BASE-UI
 
 ## Installation
 
