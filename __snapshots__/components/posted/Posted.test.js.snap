@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Posted T1 - Render component with prop compare to Snapshot 1`] = `
+<div
+  className="Posted"
+>
+  <div
+    className="Posted-title"
+  >
+    <div
+      className="Posted-title-heap"
+    >
+      Post
+    </div>
+    <div
+      className="Posted-title-space"
+    />
+    <div
+      className="Posted-title-num"
+    >
+      1
+    </div>
+  </div>
+  <div
+    className="Posted-description"
+  >
+    Test description
+  </div>
+  <div
+    className="Posted-footer"
+  >
+    <button
+      className="btn btn-danger btn-circle"
+      onClick={[Function]}
+      type="button"
+    >
+      <i
+        className="glyphicon glyphicon-heart"
+      />
+    </button>
+    <div
+      className="Posted-footer-space"
+    />
+    <div
+      className="Posted-footer-vote"
+    >
+      vote 
+      0
+    </div>
+  </div>
+</div>
+`;

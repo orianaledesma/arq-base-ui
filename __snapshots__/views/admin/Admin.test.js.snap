@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Admin renders without crashing given the required props 1`] = `
+<div
+  className="Admin"
+>
+  <h1>
+    Admin
+  </h1>
+  <p>
+    This page can only be accessed by administrators.
+  </p>
+  <div>
+    All users from secure (admin only) api end point:
+  </div>
+</div>
+`;

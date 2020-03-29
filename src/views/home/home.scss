@@ -1,0 +1,24 @@
+.Home {
+    display: flex;
+    &-Posteds {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        max-width: 50%;
+        align-self: flex-start;
+        margin: 10px 10px 10px 10px;
+    }
+    &-Aside {
+        &-Presentation {
+            background: white;
+            border-radius: 25px;
+            padding: 7px;
+        }
+        &-User {
+            font-size: 16px;
+        }
+        &-FormPosted {
+            margin-top: 8px;
+        }
+    }
+}
